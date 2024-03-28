@@ -1,9 +1,15 @@
 h1, h2 {
     font-family: serif;
 }
+nav, a{
+    font-weight: bold;
+}
 nav {
     font-weight: bold;
 }
 .container {
     padding: 20px;  
+}
+section {
+    line-height: 1.5;
 }
