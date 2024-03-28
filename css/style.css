@@ -19,6 +19,13 @@ form {
     padding:10px;
 }
 p {
-    color: green
+    color: green;
+}
+button {
+    background-color: blue;
+    color: white;
+}
+footer {
+    border-top: 2px solid red;
 }
 
